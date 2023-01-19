@@ -1,10 +1,35 @@
 # Document Approval FedMake Accelerator
 
-Government focused Document Approval FedMake Accelerator Developed at a FedMake Event by Makers within the Federal, Intel, and Dept of Defense organizations.
+![Current Version is 1.0.0](https://img.shields.io/static/v1?label=Current%20Version&message=1.0.0&color=blue)
+![Released on January 20th, 2022](https://img.shields.io/static/v1?label=Released&message=January%2020th,%202022&color=blue)
+
+Document Approval FedMake Accelerator Developed by Makers within the Federal, Intel, and Dept of Defense organizations.
+
+## Supported M365 Clouds
+
+![Supported in GCC](https://img.shields.io/static/v1?label=GCC&message=Supported&color=brightgreen)
+![Supported in GCCH](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
+![Supported in DoD](https://img.shields.io/static/v1?label=DoD&message=Supported&color=brightgreen)
+
+## Minimum Licensing Required
+
+![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365&message=G3%20or%20higher&color=blue)
 
 ## Deployment Guide
 
-***Coming Soon***
+### Step 1
+
+Download the following files:
+
+- [document-approval-routing.zip](https://github.com/FedMake/document-approval/raw/main/solution/v1.0.0/document-approval-routing.zip)
+- [document-approval-request-tracker.zip](https://github.com/FedMake/document-approval/raw/main/solution/v1.0.0/document-approval-request-tracker.zip)
+
+### Step 2
+
+Import the Power Platform solution files into Dataverse or Dataverse for Teams in the following order:
+
+1. [document-approval-routing.zip](https://github.com/FedMake/document-approval/raw/main/solution/v1.0.0/document-approval-routing.zip)
+2. [document-approval-request-tracker.zip](https://github.com/FedMake/document-approval/raw/main/solution/v1.0.0/document-approval-request-tracker.zip)
 
 ## What is a FedMake Accelerator
 
